@@ -7,5 +7,3 @@ Outside of work and school, I have started development on a personal blog platfo
 Other computer related hobbies include retrocomputing and writing assembly. I own an original hardware Commodore 64 and a Macintosh LC. I'm looking to grow my collection of old hardware and write software to run on them, just for fun.
 
 Besides computers, I enjoy being outside, personal fitness, reading, and spending time with my dog, Apollo.
-
-![apollo](https://github.com/lwestfall/lwestfall/apollo.jpg)

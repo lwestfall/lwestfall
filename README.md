@@ -8,4 +8,4 @@ Other computer related hobbies include retrocomputing and writing assembly. I ow
 
 Besides computers, I enjoy being outside, personal fitness, reading, and spending time with my dog, Apollo.
 
-![apollo](apollo.jpg)
+![apollo](https://github.com/lwestfall/lwestfall/apollo.jpg)
